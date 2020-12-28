@@ -10,7 +10,7 @@ https://github.com/go-zookeeper/zk
 │   ├── config
 │   └── quota
 ├── temp
-└── temp_child
+    └── temp_child
 ```
 
 ### Tip
